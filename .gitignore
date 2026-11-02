@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Project data
+/data/raw/
+
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Notebook output
+.notebook_checkpoints/
